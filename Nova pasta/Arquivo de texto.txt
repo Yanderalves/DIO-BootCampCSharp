@@ -1,1 +1,2 @@
-Texto de teste
+O git bash é um terminal estendido para o uso do git.
+Liink para o download do Git: https://git-scm.com/
