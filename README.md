@@ -1,6 +1,6 @@
 # Desafio da DIO | Git Github
 
-## Alteração simples
+#### Alteração simples
 
 [Guia Técnico de markdown](https://www.markdownguide.org/basic-syntax/)
 
