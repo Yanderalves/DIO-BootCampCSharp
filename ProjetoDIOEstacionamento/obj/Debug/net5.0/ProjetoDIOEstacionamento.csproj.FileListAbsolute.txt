@@ -1,0 +1,16 @@
+C:\Users\yander.carvalho\source\repos\ProjetoDIOEstacionamento\obj\Debug\net5.0\ProjetoDIOEstacionamento.csproj.AssemblyReference.cache
+C:\Users\yander.carvalho\source\repos\ProjetoDIOEstacionamento\obj\Debug\net5.0\ProjetoDIOEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yander.carvalho\source\repos\ProjetoDIOEstacionamento\obj\Debug\net5.0\ProjetoDIOEstacionamento.AssemblyInfoInputs.cache
+C:\Users\yander.carvalho\source\repos\ProjetoDIOEstacionamento\obj\Debug\net5.0\ProjetoDIOEstacionamento.AssemblyInfo.cs
+C:\Users\yander.carvalho\source\repos\ProjetoDIOEstacionamento\obj\Debug\net5.0\ProjetoDIOEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\yander.carvalho\source\repos\ProjetoDIOEstacionamento\bin\Debug\net5.0\ProjetoDIOEstacionamento.exe
+C:\Users\yander.carvalho\source\repos\ProjetoDIOEstacionamento\bin\Debug\net5.0\ProjetoDIOEstacionamento.deps.json
+C:\Users\yander.carvalho\source\repos\ProjetoDIOEstacionamento\bin\Debug\net5.0\ProjetoDIOEstacionamento.runtimeconfig.json
+C:\Users\yander.carvalho\source\repos\ProjetoDIOEstacionamento\bin\Debug\net5.0\ProjetoDIOEstacionamento.runtimeconfig.dev.json
+C:\Users\yander.carvalho\source\repos\ProjetoDIOEstacionamento\bin\Debug\net5.0\ProjetoDIOEstacionamento.dll
+C:\Users\yander.carvalho\source\repos\ProjetoDIOEstacionamento\bin\Debug\net5.0\ref\ProjetoDIOEstacionamento.dll
+C:\Users\yander.carvalho\source\repos\ProjetoDIOEstacionamento\bin\Debug\net5.0\ProjetoDIOEstacionamento.pdb
+C:\Users\yander.carvalho\source\repos\ProjetoDIOEstacionamento\obj\Debug\net5.0\ProjetoDIOEstacionamento.dll
+C:\Users\yander.carvalho\source\repos\ProjetoDIOEstacionamento\obj\Debug\net5.0\ref\ProjetoDIOEstacionamento.dll
+C:\Users\yander.carvalho\source\repos\ProjetoDIOEstacionamento\obj\Debug\net5.0\ProjetoDIOEstacionamento.pdb
+C:\Users\yander.carvalho\source\repos\ProjetoDIOEstacionamento\obj\Debug\net5.0\ProjetoDIOEstacionamento.genruntimeconfig.cache
