@@ -1,4 +1,4 @@
-# Desafio da DIO | Git Github
+# Desafio da DIO
 
 #### Alteração simples
 
