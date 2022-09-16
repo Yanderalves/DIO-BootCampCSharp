@@ -1,0 +1,7 @@
+C:\Users\yander.carvalho\source\repos\projetoDIoHotelaria\bin\Debug\projetoDIoHotelaria.exe.config
+C:\Users\yander.carvalho\source\repos\projetoDIoHotelaria\bin\Debug\projetoDIoHotelaria.exe
+C:\Users\yander.carvalho\source\repos\projetoDIoHotelaria\bin\Debug\projetoDIoHotelaria.pdb
+C:\Users\yander.carvalho\source\repos\projetoDIoHotelaria\obj\Debug\projetoDIoHotelaria.csproj.AssemblyReference.cache
+C:\Users\yander.carvalho\source\repos\projetoDIoHotelaria\obj\Debug\projetoDIoHotelaria.csproj.CoreCompileInputs.cache
+C:\Users\yander.carvalho\source\repos\projetoDIoHotelaria\obj\Debug\projetoDIoHotelaria.exe
+C:\Users\yander.carvalho\source\repos\projetoDIoHotelaria\obj\Debug\projetoDIoHotelaria.pdb
