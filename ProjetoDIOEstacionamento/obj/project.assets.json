@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yander.carvalho\\source\\repos\\ProjetoDIOEstacionamento\\ProjetoDIOEstacionamento.csproj",
+      "projectUniqueName": "C:\\Users\\yander.carvalho\\Source\\Repos\\DIO-BootCampCSharp\\ProjetoDIOEstacionamento\\ProjetoDIOEstacionamento.csproj",
       "projectName": "ProjetoDIOEstacionamento",
-      "projectPath": "C:\\Users\\yander.carvalho\\source\\repos\\ProjetoDIOEstacionamento\\ProjetoDIOEstacionamento.csproj",
+      "projectPath": "C:\\Users\\yander.carvalho\\Source\\Repos\\DIO-BootCampCSharp\\ProjetoDIOEstacionamento\\ProjetoDIOEstacionamento.csproj",
       "packagesPath": "C:\\Users\\yander.carvalho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yander.carvalho\\source\\repos\\ProjetoDIOEstacionamento\\obj\\",
+      "outputPath": "C:\\Users\\yander.carvalho\\Source\\Repos\\DIO-BootCampCSharp\\ProjetoDIOEstacionamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yander.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",

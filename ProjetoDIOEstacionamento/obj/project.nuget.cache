@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sU4jhaqWrl8S/ICHBWL4D3WE9tkkm+G58f8EwoG76PUDIXso+nxuLE9fcEWZsPr48A7SzViWP+gLQYqZ2iGlyQ==",
+  "dgSpecHash": "YlfIxgekmlOud8l532sDIsBpzHhLoJr3tASSP3TFJrHPeWoMIR9UL7Q7VaPIyZBDON93KQ9kPMBZeHqYptEMQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yander.carvalho\\source\\repos\\ProjetoDIOEstacionamento\\ProjetoDIOEstacionamento.csproj",
+  "projectFilePath": "C:\\Users\\yander.carvalho\\Source\\Repos\\DIO-BootCampCSharp\\ProjetoDIOEstacionamento\\ProjetoDIOEstacionamento.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
