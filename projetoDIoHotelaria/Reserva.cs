@@ -35,6 +35,7 @@ namespace projetoDIOHotelaria
             }
         }
 
+
         public void CadastrarSuite(Suite suite)
         {
             Suite = suite;
