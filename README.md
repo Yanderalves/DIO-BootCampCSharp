@@ -7,3 +7,5 @@
 [Plataforma DIO](https://www.dio.me/)
 
 [Desafio do estacionamento - DIO](https://github.com/Yanderalves/GitGitHub-desafio-DIO/tree/master/ProjetoDIOEstacionamento)
+
+[Desafio Hotelaria](https://github.com/Yanderalves/DIO-BootCampCSharp/tree/master/projetoDIoHotelaria)
