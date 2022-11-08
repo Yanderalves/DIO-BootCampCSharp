@@ -14,14 +14,14 @@ namespace Controllers
             _context = context;
         }   
 
-        [HttpPost]
+        [HttpPost("AdicionarContato")]
         public IActionResult CriarContato(Contato contato){
             _context.Add(contato);
             _context.SaveChanges();
             return Ok(contato);
         } 
 
-        [HttpGet("{id}")]
+        [HttpGet("ObterPorId/{id}")]
         public IActionResult ObterPorId(int id){
             var contato = _context.Contatos.Find(id);
 
